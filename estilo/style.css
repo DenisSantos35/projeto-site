@@ -3,12 +3,22 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(234, 229, 238);
+}
+header{
+    padding-bottom: 50px ;
+    border-bottom: 1px solid black;
 }
 main{
-    background-color: white;
-    width: 500px;
+    background-color: rgb(133, 146, 149);
+    width: 1000px;
+    height: 1100px;
     margin: auto;
     padding: 10px;
-    box-sizing: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.473);
+    border-radius: 10px;
+}
+img.lado{
+    float: right;
+    
 }

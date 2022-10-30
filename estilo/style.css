@@ -22,3 +22,7 @@ main{
 img.lado{
     float: right;    
 }
+p#copi{
+    text-align: center;
+    color: white;
+}
